@@ -1,0 +1,34 @@
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+
+# virtual environments
+venv/
+env/
+.env
+.venv
+
+# JUPYTER NOTEBOOK
+.ipynb_checkpoints/
+
+# DATASET 
+dataset/
+data/
+*.zip
+
+# MAC
+.DS_Store
+.AppleDouble
+
+# IDE
+.vscode/
+.idea/
+
+# LOGS
+*.log
+runs/
