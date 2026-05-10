@@ -1,7 +1,7 @@
 torch
 torchvision
 timm
-mediapipe
+mediapipe==0.10.9
 opencv-python-headless
 streamlit
 scikit-learn
