@@ -2,9 +2,10 @@ torch
 torchvision
 timm
 mediapipe
-opencv-python
+opencv-python-headless
 streamlit
 scikit-learn
 matplotlib
 seaborn
+Pillow
 numpy
